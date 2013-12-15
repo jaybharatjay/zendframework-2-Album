@@ -1,4 +1,3 @@
-
 ##################################################### C:\Windows\System32\drivers\etc\hosts start #####################################
 # Copyright (c) 1993-2009 Microsoft Corp.
 #
@@ -120,8 +119,7 @@ INSERT INTO `album` (`id`, `artist`, `title`) VALUES
  
  
  
- 
- window power shell
+ window power shell  not required its plug and play project.
  
 
 
